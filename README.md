@@ -1,1 +1,2 @@
 "# ShoppingCartProject" 
+Java shopping cart
