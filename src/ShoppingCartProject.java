@@ -10,7 +10,7 @@ public class ShoppingCartProject {
     public static void main(String[] args){
         //use array
         System.out.println("Welcome to my store");
-        totalItems = getNumberOfItems("how many item do you want to buy: 2");
+        totalItems = getNumberOfItems("how many item do you want to buy: ");
         items = new String[totalItems];
         prices = new double[totalItems];
         quantity = new int[totalItems];
